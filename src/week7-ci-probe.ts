@@ -1,2 +1,2 @@
-// Intentional type error for the Week 7 CI repair exercise.
-export const weekSevenCiProbe: number = 'intentional-error'
+// Repaired after recording the intentional Week 7 CI failure.
+export const weekSevenCiProbe: number = 7
